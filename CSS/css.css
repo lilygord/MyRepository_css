@@ -91,6 +91,10 @@ strong {
  button {
     background: linear-gradient(to top,#cccccc,#ffffff);
 }
+
+button:active { 
+background: linear-gradient(to top,#ffffff,#cccccc);
+ }
 #test-result {
     border-radius: 2px;
     padding: 3px 10px;
